@@ -138,6 +138,9 @@ header .image{
     margin-left: auto;
     border-radius: 10px;
     transition: 2s;
+    p{
+        color: #fff;
+    }
 }
 
 
