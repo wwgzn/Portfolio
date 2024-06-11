@@ -142,6 +142,12 @@ header .image{
         color: #fff;
     }
 }
+.espaco{
+    height: 150px;
+}
+p{
+    color: #fff;
+}
 
 
 
@@ -154,17 +160,17 @@ header .image{
         gap: 0.2rem;
     }
     .nav-logo{
-        max-width:70px;
+        max-width:50px;
     }
     .nav-links{
         list-style: none;
         display:flex;
         align-items: center;
-        gap: 2rem;
+        gap: 1rem;
         font-size: 12px;
     }
     .btn{
-        width: 70px;
+        width: 100px;
         a{
             font-size: 12px;
         }
