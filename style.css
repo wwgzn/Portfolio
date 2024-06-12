@@ -148,7 +148,9 @@ header .image{
 p{
     color: #fff;
 }
-
+article h3{
+    color: #fff;
+}
 
 
 @media (max-width: 900px){
@@ -185,12 +187,15 @@ p{
         gap: 2rem;
         h4{
             margin: 0.75rem;
+            font-size: 12px;
         }
         h1{
             margin: 0.75rem;
+            font-size: 26px;
         }
         p{
             margin: 0.75rem;
+            font-size: 12px;
         }
     }
 }
