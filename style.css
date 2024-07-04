@@ -148,10 +148,15 @@ header .image{
 p{
     color: #fff;
 }
+article{
+    margin: 10rem;
+}
 article h3{
     color: #fff;
 }
+article h1{
 
+}
 
 @media (max-width: 700px){
 
